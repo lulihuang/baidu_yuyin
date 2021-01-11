@@ -1,2 +1,1 @@
-# cnn_project
-# baidu_yuyin-
+# baidu_yuyin
